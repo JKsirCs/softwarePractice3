@@ -4,7 +4,7 @@
 
 + 安装后运行截图
 
-<img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230409205621510.png" alt="image-20230409205621510" style="zoom:33%;" />
+<img src="./img/image-20230409205621510.png" alt="image-20230409205621510" style="zoom:33%;" />
 
 
 
@@ -14,15 +14,15 @@
 
 + 程序运行截图
 
-<img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230409205240468.png" alt="image-20230409205240468" style="zoom:33%;" />
+<img src="./img/image-20230409205240468.png" alt="image-20230409205240468" style="zoom:33%;" />
 
-<img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230409205333291.png" alt="image-20230409205333291" style="zoom:33%;" />
+<img src="./img/image-20230409205333291.png" alt="image-20230409205333291" style="zoom:33%;" />
 
 ## 实验3   安装Visual Studio Code代码编辑器
 
 + 运行截图
 
-<img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230409210146003.png" alt="image-20230409210146003" style="zoom:33%;" />
+<img src="./img/image-20230409210146003.png" alt="image-20230409210146003" style="zoom:33%;" />
 
 
 
