@@ -6,7 +6,11 @@
 
 step:新建一个项目，选择basic Acitvity，然后在语言中选择kotlin
 
-<img src="F:\AndroidWorkspace\git\softwarePractice3\Trail2\img\image-20230413214003616.png" alt="image-20230413214003616" style="zoom:33%;" />
+<img src=".\img\image-20230413214003616.png" alt="image-20230413214003616" style="zoom:33%;" />
+
+
+
+
 
 
 
@@ -16,7 +20,9 @@ step:新建一个项目，选择basic Acitvity，然后在语言中选择kotlin
 
 ps. 由于安装过程在实验1中进行了详细说明，这里不再说明，直接进行效果展示，展示如下：
 
-<img src="F:\AndroidWorkspace\git\softwarePractice3\Trail2\img\image-20230413213648576.png" alt="image-20230413213648576" style="zoom:33%;" />
+<img src=".\img\image-20230413213648576.png" alt="image-20230413213648576" style="zoom:33%;" />
+
+
 
 ### 2.**探索界面布局编辑器**
 
@@ -763,4 +769,8 @@ private fun captureVideo() {
 <img src="./img/image-20230422103713412.png" alt="image-20230422103713412" style="zoom: 33%;" />
 
 <img src="./img/image-20230422103737255.png" alt="image-20230422103737255" style="zoom:50%;" />
+
+
+
+
 

@@ -138,7 +138,7 @@ data.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -220,7 +220,7 @@ data.tail()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -353,7 +353,7 @@ data.loc[non_numberic_profits].head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -439,9 +439,9 @@ bin_sizes, _, _ = plt.hist(data.year[non_numberic_profits], bins=range(1955, 200
 ```
 
 
-    
+​    
 ![png](demo1_files/demo1_39_0.png)
-    
+​    
 
 
 删除非数字记录
@@ -510,9 +510,9 @@ plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005'
 ```
 
 
-    
+​    
 ![png](demo1_files/demo1_49_0.png)
-    
+​    
 
 
 收入曲线
@@ -525,9 +525,9 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 ```
 
 
-    
+​    
 ![png](demo1_files/demo1_51_0.png)
-    
+​    
 
 
 公司收入曲线并没有出现急剧下降，可能是由于财务会计的处理。对数据结果进行标准差处理。
@@ -549,11 +549,27 @@ fig.tight_layout()
 ```
 
 
-    
+​    
 ![png](demo1_files/demo1_53_0.png)
-    
+​    
 
 
+## 补充vscode导出Markdown
 
+#### 首先应该先安装nbconvert
+可以使用以下命令
+```pip install nbconvert```
+![img](demo1_files/demo1_c_0.png)
+这里已经安装成功了。
 
+#### 安装pandoc
+可以使用以下命令
+```pip install pandoc```
 
+#### 转换
+在你要转换的文件目录下输入以下指令
+
+```jupyter nbconvert --to FORMAT(要转化的格式) (ipynb文件名).ipynb```
+
+这里是Markdown
+![img](demo1_files/demo1_c_1.png)
